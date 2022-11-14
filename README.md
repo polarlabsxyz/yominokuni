@@ -1,2 +1,4 @@
 # Yomi No Kuni
-### A web3 game from Polar Labs
+### A web3 gaming experience from Polar Labs
+
+https://www.yominokuni.xyz
